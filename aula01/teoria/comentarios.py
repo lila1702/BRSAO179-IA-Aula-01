@@ -1,0 +1,1 @@
+print("teste acento ééééé ááááá çççç")
